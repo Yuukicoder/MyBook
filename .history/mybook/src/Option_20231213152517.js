@@ -1,0 +1,1 @@
+var Option = x => <p>{x.hello}</p>

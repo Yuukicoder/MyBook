@@ -6,8 +6,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arima;
   /* border: 1px solid black; */
+  font-family: Arima;
+  cursor: pointer;
 }
 body{
   width: 100%;

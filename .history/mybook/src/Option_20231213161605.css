@@ -1,0 +1,9 @@
+
+.box i{
+    font-size: 40px;
+}
+.line{
+    width: 300px;
+    height: 1px;
+    background-color: grey;
+}

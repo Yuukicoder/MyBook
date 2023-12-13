@@ -4,11 +4,8 @@ import Navbar from './Navbar'
 import Option from './Option'
  var App = () => 
 (
-    <div class="">
-        <Navbar/>
-        <Option name="Yuuki-coder"/>
-        
-    </div>
-)
+<Navbar/>
 
+
+) 
 export default App;

@@ -3,12 +3,10 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import Navbar from './Navbar'
 import Option from './Option'
  var App = () => 
-(
-    <div class="">
-        <Navbar/>
-        <Option name="Yuuki-coder"/>
-        
-    </div>
-)
+ <div class="">
+<Option hello="hello"/>
+<Option hello="hi"/>
+<Option hello="how are you"/>
+ </div>
 
 export default App;

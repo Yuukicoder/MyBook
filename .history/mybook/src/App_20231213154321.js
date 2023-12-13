@@ -6,8 +6,9 @@ import Option from './Option'
 (
     <div class="">
         <Navbar/>
-        <Option name="Yuuki-coder"/>
-        
+        <Option />
+    <h1>hello</h1>
+
     </div>
 )
 
