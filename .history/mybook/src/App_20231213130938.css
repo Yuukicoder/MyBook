@@ -1,0 +1,10 @@
+ul i{
+color: rgb(160, 159, 159);
+font-size: 30px;
+}
+.avatar{
+  width: 40px;
+  height: 40px;
+  background-color: grey;
+  border-radius: 50%;
+}

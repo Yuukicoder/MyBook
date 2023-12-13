@@ -1,0 +1,13 @@
+:root{
+  --text-color: rgb(175, 175, 175);
+}
+ul i{
+color: var(--text-color);
+font-size: 30px;
+}
+.avatar{
+  width: 40px;
+  height: 40px;
+  background-color: var(--text-color);
+  border-radius: 50%;
+}

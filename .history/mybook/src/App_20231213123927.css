@@ -1,0 +1,10 @@
+.Navbar_selection ul li i{
+color: white;
+font-size: 30px;
+}
+.Navbar_selection{
+display: flex;
+align-items: center;
+justify-content: center;  
+  width: 100%;
+}

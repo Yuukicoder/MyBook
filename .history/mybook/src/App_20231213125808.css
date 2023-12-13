@@ -1,0 +1,10 @@
+ul i{
+color: white;
+font-size: 30px;
+}
+.avatar{
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+}
