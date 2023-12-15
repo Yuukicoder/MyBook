@@ -11,7 +11,7 @@ var Option = (x) => {
       }
 
     return (
-    <div class="mt-4 ml-4  grid gap-6">
+    <div class="mt-4 ml-4  grid gap-6 h-full  ">
 
     <div class="flex gap-4 items-center box ">
         <div class="avatar">
@@ -58,6 +58,7 @@ var Option = (x) => {
     </div>
     <div class="line"></div>
     <p class="text-base font-semibold text-gray-500">Lối tắt của bạn</p>
+
     </div>
 )}
 export default Option
