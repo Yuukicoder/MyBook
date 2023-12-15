@@ -1,0 +1,11 @@
+.line2{
+    width: 100%;
+    height: 1px;
+    background-color: #e4e6eb;
+}
+.line::after{
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: red;
+}

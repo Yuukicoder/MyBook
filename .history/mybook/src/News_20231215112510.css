@@ -1,0 +1,24 @@
+.line2{
+    width: 100%;
+    height: 1px;
+    background-color: red;
+    position: relative;
+}
+.line2::after{
+    content: "";
+    width: 100px;
+    height: 3px;
+    background-color: blue;
+    position: absolute;
+    top:60%;
+    left:0;
+}
+.line2::before{
+    content: "";
+    width: 100px;
+    height: 3px;
+    background-color: blue;
+    position: absolute;
+    top:50%;
+    right:0;
+}

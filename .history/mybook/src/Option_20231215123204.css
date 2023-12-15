@@ -1,0 +1,16 @@
+
+.box i{
+    font-size: 30px;
+}
+.line{
+    width: 250px;
+    height: 1px;
+    background-color: grey;
+}
+.avatar i{
+    font-size: 20px;
+
+}
+.option_choose::-webkit-scrollbar {
+    height: 10px;
+  }
