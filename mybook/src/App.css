@@ -11,3 +11,9 @@
   align-items: center;
   justify-content: center;
 }
+.avatar_img{
+  height: 100%;
+  width: 100%;
+  border-radius: 9999px;
+  object-fit: cover;
+}

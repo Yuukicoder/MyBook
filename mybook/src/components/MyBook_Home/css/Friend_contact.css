@@ -1,0 +1,12 @@
+.line3 {
+  width: 95%;
+  height: 1px;
+  background-color: #ced0d4;
+}
+.Contact_scroll {
+  height: 100vh;
+  overflow-y: auto;
+}
+.Contact_scroll::-webkit-scrollbar {
+  overflow: hidden;
+}

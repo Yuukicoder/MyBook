@@ -1,0 +1,15 @@
+.line2{
+    width: 95%;
+    height: 1px;
+    background-color: #e4e6eb;
+}
+.page_content{
+    width: 640px;
+}
+.News_scroll{
+    height: 100vh;
+    overflow-y: auto;
+}
+.News_scroll::-webkit-scrollbar{
+    display: none;
+}

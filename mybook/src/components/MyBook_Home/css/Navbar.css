@@ -1,0 +1,13 @@
+:root {
+  --text-color: rgb(175, 175, 175);
+  --bg-icon-color: #e5e7eb;
+}
+ul i {
+  color: var(--text-color);
+  font-size: 30px;
+}
+
+.Navbar_option ul li i {
+  color: black;
+  font-size: 20px;
+}
