@@ -146,6 +146,31 @@ var News = () => (
         share_number="128"
         avatar="Avatar.png"
       ></Page>
+      
+      <Page
+        author="Yuuki"
+        time="1 giờ"
+        content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, labore. Accusantium, sit! Exercitationem odio numquam veritatis harum necessitatibus tenetur illum facilis deleniti aliquam sit fuga beatae soluta, vero non quidem?
+            Ut officia quo excepturi modi aperiam esse, quisquam obcaecati magnam rem, quasi alias, unde architecto provident. Incidunt sint maxime facere commodi consequatur, qui enim nulla eius, beatae dicta quos vitae!"
+        image="https://plus.unsplash.com/premium_photo-1701185651795-08c2f59bc005?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        emotion_number="35K"
+        commend_number="184K"
+        share_number="128"
+        avatar="Avatar.png"
+
+      ></Page>
+      <Page
+        author="Yuuki"
+        time="1 giờ"
+        content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, labore. Accusantium, sit! Exercitationem odio numquam veritatis harum necessitatibus tenetur illum facilis deleniti aliquam sit fuga beatae soluta, vero non quidem?
+            Ut officia quo excepturi modi aperiam esse, quisquam obcaecati magnam rem, quasi alias, unde architecto provident. Incidunt sint maxime facere commodi consequatur, qui enim nulla eius, beatae dicta quos vitae!"
+        image="https://plus.unsplash.com/premium_photo-1701185651795-08c2f59bc005?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        emotion_number="35K"
+        commend_number="184K"
+        share_number="128"
+        avatar="Avatar.png"
+
+      ></Page>
       <Page
         author="Yuuki"
         time="1 giờ"

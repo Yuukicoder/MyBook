@@ -36,10 +36,10 @@ var Friend_contact = () => (
     <div class="line3 mt-4 "></div>
     <div class="Friend  mt-4 mr-4 grid gap-4">
       <div class="flex relative">
-        <p class="text-gray-500 font-semibold">Người liên hệ</p>
+        <p class="text-gray-500 font-semibold p-2">Người liên hệ</p>
         <div class="flex absolute right-0 gap-4">
-          <i class="fa-solid fa-magnifying-glass text-gray-500"></i>
-          <i class="fa-solid fa-ellipsis text-gray-500"></i>
+          <i class="fa-solid fa-magnifying-glass text-gray-500  hover:bg-gray-300 rounded-full p-2"></i>
+          <i class="fa-solid fa-ellipsis text-gray-500 hover:bg-gray-300 rounded-full p-2 "></i>
         </div>
       </div>
       <Friend name="aDucDev"></Friend>
